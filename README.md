@@ -17,4 +17,5 @@ Este es un proyecto de una plataforma para la gestión de películas, desarrolla
 - **AWS EC2**: Herramientas de despliegue para hacer la API accesible desde cualquier navegador.
 - **Python**: Lenguaje de programación principal del proyecto.
 
+## Dirección publica de prueba: http://3.128.160.45:8000/movie/ 
 
